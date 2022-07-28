@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="IOCProj25-SpringBeanLifeCycle-Programatic"/>
+<aop-project name="BootProj06-ConfigurationPropertiesOnArray-List-Set-Has-AProperties"/>
+<aop-project name="IOCProj21-StrategyPattern-DynamicDependentChange"/>
+<aop-project name="IOCProj34-SpringI18n-100pCodeCfgs"/>
+<aop-project name="IOCProj20-WorkingWithPropertiesfile"/>
+<aop-project name="IOCProj13-FactoryMethodBeanInstantiation"/>
+<aop-project name="IOCProj26-SpringBeanLifeCycle-AnnotationsDriven"/>
+<aop-project name="IOCProj11-StrategyPattern-RealtimeDI-MiniProject"/>
+<aop-project name="IOCProj36-RealtimeDI-MiniProject -Multiple Cfg files"/>
+<aop-project name="IOCProj24-SpringBeanLifeCycle-Declarative"/>
+<aop-project name="IOCProj19-StrategyPattern-Autowired-stereotypeannotations"/>
+<aop-project name="IOCProj36-RealtimeDI-MiniProject-Multiple Cfg files"/>
+<aop-project name="IOCProj30-MethodReplacer-MethodInjection"/>
+<aop-project name="IOCProj17-ApplicationContext"/>
+<aop-project name="BootProj1-BasicDI-1"/>
+<aop-project name="IOCProj27-DependencyLookup"/>
+<aop-project name="IOCProj18-StrategyPattern-Autowired"/>
+<aop-project name="IOCProj23-SpringI18n"/>
+<aop-project name="IOCProj32-StrategyPattern-DynamicDependentChange-100pCfgs"/>
+<aop-project name="IOCProj37-RealtimeDI-MiniProject-100pCodeCfgs-MultipleConfigClasses"/>
+<aop-project name="IOCProj33-MethodReplacer-MethodInjection-100pCode"/>
+<aop-project name="IOCProj28-DependencyLookup-AwareInjection"/>
+<aop-project name="IOCProj15-SpringBeanScopes"/>
+<aop-project name="IOCProj29-LookupMethodInjection"/>
+<aop-project name="IOCProj12-StrategyPattern-RealtimeDI-MiniProject-Exc"/>
+<aop-project name="IOCProj22-StrategyPattern-RealtimeDI-MiniProject-xml-annotations"/>
+<aop-project name="IOCProj38-RealtimeDI-MiniProject-100pCode-DifferentDataSources"/>
+<aop-project name="IOCProj35-StrategyPattern-RealtimeDI-MiniProject-100pCodeCfgs"/>
+<aop-project name="BootProj03-LayeredApp"/>
+<aop-project name="IOCProj16-ApplicationContext"/>
+</aop-reference-model>
